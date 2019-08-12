@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14868" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14824"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SourceSansPro-Regular.ttf">
+            <string>SourceSansPro-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SettingTextField" customModule="Flashhop" customModuleProvider="target">
+            <connections>
+                <outlet property="contentView" destination="iN0-l3-epB" id="6nC-9X-6C1"/>
+                <outlet property="lblTitle" destination="SdA-OM-bae" id="hbq-RE-gfd"/>
+                <outlet property="textMain" destination="VOO-sd-Z6g" id="tvh-oV-5eS"/>
+                <outlet property="viewUnderLine" destination="7fn-Vv-ieZ" id="IVu-8E-aTB"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SdA-OM-bae">
+                    <fontDescription key="fontDescription" name="SourceSansPro-Regular" family="Source Sans Pro" pointSize="15"/>
+                    <color key="textColor" red="0.50196078431372548" green="0.50196078431372548" blue="0.50196078431372548" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="VOO-sd-Z6g">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="isk-L1-Ba1"/>
+                    </constraints>
+                    <color key="textColor" red="0.21176470588235294" green="0.23529411764705882" blue="0.3529411764705882" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" name="SourceSansPro-Regular" family="Source Sans Pro" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7fn-Vv-ieZ">
+                    <rect key="frame" x="0.0" y="40" width="414" height="1"/>
+                    <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="Sun-Jv-EgR"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="SdA-OM-bae" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="3vE-og-B9S"/>
+                <constraint firstItem="7fn-Vv-ieZ" firstAttribute="top" secondItem="VOO-sd-Z6g" secondAttribute="bottom" id="V4u-iu-kaJ"/>
+                <constraint firstItem="7fn-Vv-ieZ" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Wwl-Ux-5bk"/>
+                <constraint firstItem="VOO-sd-Z6g" firstAttribute="top" secondItem="SdA-OM-bae" secondAttribute="bottom" id="ZAE-Gu-Quu"/>
+                <constraint firstItem="SdA-OM-bae" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="lBo-ts-qbi"/>
+                <constraint firstAttribute="trailing" secondItem="7fn-Vv-ieZ" secondAttribute="trailing" id="oJT-F8-ZP9"/>
+                <constraint firstAttribute="trailing" secondItem="VOO-sd-Z6g" secondAttribute="trailing" id="sCb-eY-PJW"/>
+                <constraint firstItem="VOO-sd-Z6g" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="v61-ef-b8k"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <point key="canvasLocation" x="132" y="154"/>
+        </view>
+    </objects>
+</document>

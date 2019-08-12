@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>945997803187-lr9umf94k63p7f7bb5n4pa4j6ok5ektn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.945997803187-lr9umf94k63p7f7bb5n4pa4j6ok5ektn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>945997803187-us62enki23bc5rp36fm8cbjli4a7tpnd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfxi42TnMcqz-7WVzezxCe7S7IKS8GA1o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>945997803187</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flashhop.ios</string>
+	<key>PROJECT_ID</key>
+	<string>flashhop-84c2b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flashhop-84c2b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:945997803187:ios:4f762cc96de57ec27b4ac6</string>
+	<key>DATABASE_URL</key>
+	<string>https://flashhop-84c2b.firebaseio.com</string>
+</dict>
+</plist>
