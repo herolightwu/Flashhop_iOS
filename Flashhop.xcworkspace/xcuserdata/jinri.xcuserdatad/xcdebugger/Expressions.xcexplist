@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "draft_events():Event.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in EditEventVC.onEditingDidEnd(_:):EditEventVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.event">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Filter.event_date():Filter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "current_filter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Event.start_time_str():Event.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HomeVC.loadUsersAndEvents():HomeVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.events">
+            </PersistentString>
+            <PersistentString
+               value = "self.users">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EventVC.is_available_hoppers():EventVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "event">
+            </PersistentString>
+            <PersistentString
+               value = "event.time()">
+            </PersistentString>
+            <PersistentString
+               value = "Date()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginVC.onLogin(_:):LoginVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "current_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Event.dic_value():Event.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomeVC.showUsers():HomeVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "users">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in VerifyVC.onResend(_:):VerifyVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "current_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in RegisterVC.onSend(_:):RegisterVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "EditEventVC.onChangedEndTime(sender:):EditEventVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "event">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileVC.showTags():ProfileVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vTags.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotosView.showOne(image:):PhotosView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in EventVC.onAction(_:):EventVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static APIManager.hostEvent(image:event:result:error:):APIManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in UploadPhotoVC.onNext(_:):UploadPhotoVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "current_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChoosePhotosVC.onSave(_:):ChoosePhotosVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FUser.initWithJson(dic:):FUser.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CalendarEventsVC.refresh():CalendarEventsVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "constraintHostingHeight.constant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotosView.showSix(images:):PhotosView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "iv.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EventVC.action_type():EventVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "event">
+            </PersistentString>
+            <PersistentString
+               value = "me">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChooseBirthdayVC.onNext(_:):ChooseBirthdayVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "current_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static APIManager.filterEvents(result:error:):APIManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FilterVC.onSave(_:):FilterVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "current_filter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static APIManager.filterEvents(result:error:):APIManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Event.set_end_time(_:):Event.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in ProfileVC.onAction(_:):ProfileVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "current_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FilterVC.viewDidLoad():FilterVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "current_filter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EventVC.refresh():EventVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "event">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in UploadPhotoVC.viewDidLoad():UploadPhotoVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NotificationSettingsVC.onSave(_:):NotificationSettingsVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "current_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in EditEventVC.onPublish(_:):EditEventVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "me">
+            </PersistentString>
+            <PersistentString
+               value = "APIManager.token">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EditEventVC.onEditingDidEnd(_:):EditEventVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nTimeEdited">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeVC.locationManager(_:didUpdateLocations:):HomeVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "me">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileVC.refresh():ProfileVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "current_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in EventVC.onAction(_:):EventVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static APIManager.pinLocation():APIManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in FirstVC.checkToken():FirstVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Event.start_end():Event.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomeVC.showEvents():HomeVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "event.lat">
+            </PersistentString>
+            <PersistentString
+               value = "event.lng">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EditEventVC.viewDidLoad():EditEventVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "me">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Event.set_time(_:):Event.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChangeInterestsVC.refresh():ChangeInterestsVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "current_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in EditProfileVC.onChoosePhotos(_:):EditProfileVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.photosView">
+            </PersistentString>
+            <PersistentString
+               value = "self.photosView.frame.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Event.set_duration(_:):Event.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
